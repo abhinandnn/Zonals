@@ -15,14 +15,16 @@ import image10 from '../Images/tenis10.jfif'
 import image11 from '../Images/tenis11.jfif'
 import image12 from '../Images/tenis12.jfif'
 import image13 from '../Images/tenis13.jfif'
+import image14 from '../Images/tenis14.jpg'
+import image15 from '../Images/tenis15.jpg'
+import image16 from '../Images/tenis16.jpg'
 
 const About = () => {
 
     const images = [
-        { url: image1 },
-        { url: image2 },
-        { url: image3 },
-        { url: image4 },
+        { url: image15 },
+        { url: image16 },
+        { url: image14 },
         { url: image5 },
         { url: image6 },
         { url: image7 },
