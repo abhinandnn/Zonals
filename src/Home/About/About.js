@@ -2,38 +2,31 @@ import React from 'react'
 import about from "../about.svg"
 import "./About.css"
 import SimpleImageSlider from "react-simple-image-slider";
-import image1 from '../Images/tenis1.jfif'
-import image2 from '../Images/tenis2.jfif'
-import image3 from '../Images/tenis3.jfif'
-import image4 from '../Images/tenis4.jfif'
-import image5 from '../Images/tenis5.jfif'
-import image6 from '../Images/tenis6.jfif'
-import image7 from '../Images/tenis7.jfif'
-import image8 from '../Images/tenis8.jfif'
-import image9 from '../Images/tenis9.jfif'
+import image1 from '../Images/tenis1.jpg'
+import image2 from '../Images/tenis2.jpg'
+import image3 from '../Images/tenis3.jpg'
+import image4 from '../Images/tenis4.jpg'
+import image5 from '../Images/tenis5.jpg'
+import image6 from '../Images/tenis6.jpg'
+import image7 from '../Images/tenis7.jpg'
+import image8 from '../Images/tenis8.jpg'
+import image9 from '../Images/tenis9.jpg'
 import image10 from '../Images/tenis10.jfif'
-import image11 from '../Images/tenis11.jfif'
-import image12 from '../Images/tenis12.jfif'
-import image13 from '../Images/tenis13.jfif'
-import image14 from '../Images/tenis14.jpg'
-import image15 from '../Images/tenis15.jpg'
-import image16 from '../Images/tenis16.jpg'
+
 
 const About = () => {
 
     const images = [
-        { url: image15 },
-        { url: image16 },
-        { url: image14 },
+        { url: image1 },
+        { url: image2 },
+        { url: image3 },
+        { url: image4 },
         { url: image5 },
         { url: image6 },
         { url: image7 },
         { url: image8 },
         { url: image9 },
         { url: image10 },
-        { url: image11 },
-        { url: image12 },
-        { url: image13 },
       ];
 
     return (
