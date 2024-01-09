@@ -51,7 +51,7 @@ const About = () => {
                             height={250}
                             images={images}
                             slideDuration={0.7}
-                            autoPlayDelay={2.5}
+                            autoPlayDelay={3}
                             autoPlay
                             loop
                             showBullets
