@@ -30,6 +30,15 @@ const Eligibility = () => {
                     <li>
                     Commencement of Particular Event will depend on number of Entries.
                     </li>
+                    <li>
+                    Entries are open for all States.
+                    </li>
+                    <li>
+                    No Age criteria.
+                    </li>
+                    <li>
+                    Men and Mixed Double can be made in open basis (Not restricted to same institution).
+                    </li>
                 </ul>
             </div>
         </div>

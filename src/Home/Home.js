@@ -26,7 +26,7 @@ const Home = () => {
                     <div className='details'>
                         <div className='Main-Heading'>
                             <h1>
-                                24<sup>th</sup>  AJAY KUMAR GARG MEMORIAL
+                                25<sup>th</sup>  AJAY KUMAR GARG MEMORIAL
                             </h1>
                             <h1>
                                 TABLE TENNIS TOURNAMENT
@@ -40,7 +40,7 @@ const Home = () => {
                                 </div>
                                 <div className='text'>
                                     <h1>
-                                        19-20 November 2022
+                                        3-4 February 2024
                                     </h1>
                                 </div>
                             </div>
@@ -210,37 +210,37 @@ const Home = () => {
                         <li>
                             <div className='arrange'>
                                 <div className='student-name' style={{fontFamily: "Gilroy"}}>
-                                Srijan Singh Bhanwag
+                                Prateek Singh
                                 </div>
                                 <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px" }}>
-                                    (7286886864)
+                                (9318316168)
                                 </div>
                             </div>
                         </li>
                         <li>
                             <div className='arrange' style={{fontFamily: "Gilroy"}}>
                                 <div>
-                                Abhiroop Tomar
+                                Awas Bhardwaj
                                 </div>
                                 <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px" }}>
-                                    (9810782291)
+                                (9821330802)
                                 </div>
                             </div>
                         </li>
                         <li>
                             <div className='arrange' style={{fontFamily: "Gilroy"}}>
                                 <div>
-                                Umang Gupta
+                                Jay Singh
                                 </div>
                                 <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px" }}>
-                                    (8077121060)
+                                (8874938701)
                                 </div>
                             </div>
                         </li>
                         <li>
                             <div className='arrange' style={{fontFamily: "Gilroy"}}>
                                 <div>
-                                    Palak Tyagi
+                                 Vidhi Tripathi
                                 </div>
                                 <div>
                                 </div>

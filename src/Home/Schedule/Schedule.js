@@ -10,7 +10,7 @@ const Schedule = () => {
                 </div>
                 <div className="paragraph">
                     <p>
-                    <strong>19.11.22 Reporting /Registration</strong> ,<b>Time:8:00 AM</b> for all events. Matches schedule to be published by 16.11.22
+                    <strong>03.02.24 Reporting /Registration</strong> ,<b>Time:8:00 AM</b> for all events. Matches schedule to be published by 01.02.24
                     </p>
                 </div>
             </div>

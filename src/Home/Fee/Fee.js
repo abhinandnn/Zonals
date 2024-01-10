@@ -109,7 +109,7 @@ const Fee = () => {
                             Under 19 yrs.
                         </td>
                         <td>
-                            Born on after 1.1.2004
+                            Born on after 1.1.2006
                         </td>
                         <td>
                             <b>400.00</b>
@@ -126,7 +126,7 @@ const Fee = () => {
                             Under 19 yrs.
                         </td>
                         <td>
-                            Born on after 1.1.2004
+                            Born on after 1.1.2006
                         </td>
                         <td>
                             <b>400.00</b>
@@ -137,16 +137,16 @@ const Fee = () => {
                             7.
                         </td>
                         <td>
-                            Boys
+                            Men Doubles
                         </td>
                         <td>
-                            Under 17 yrs.
+                            --
                         </td>
                         <td>
-                            Born on after 1.1.2006
+                            --
                         </td>
                         <td>
-                            <b>400.00</b>
+                            <b>500.00</b>
                         </td>
                     </tr>
                     <tr>
@@ -154,16 +154,16 @@ const Fee = () => {
                             8.
                         </td>
                         <td>
-                            Girls
+                            Mixed Doubles
                         </td>
                         <td>
-                            Under 17 yrs.
+                            --
                         </td>
                         <td>
-                            Born on after 1.1.2006
+                            --
                         </td>
                         <td>
-                            <b>400.00</b>
+                            <b>500.00</b>
                         </td>
                     </tr>
                     <tr>
