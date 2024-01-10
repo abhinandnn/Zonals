@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Zonals/static/css/main.4d28d1be.css",
-    "main.js": "/Zonals/static/js/main.3748ca6d.js",
+    "main.js": "/Zonals/static/js/main.c256f1cf.js",
     "static/media/file.mp4": "/Zonals/static/media/file.8a651a2c117fb65a7fab.mp4",
     "static/media/mobilebg.svg": "/Zonals/static/media/mobilebg.aa70ff1c412d590b31c0.svg",
     "static/media/tenis.svg": "/Zonals/static/media/tenis.f2777859e43762c53d5f.svg",
@@ -9,6 +9,7 @@
     "static/media/tenis2.jpg": "/Zonals/static/media/tenis2.49add90fa77f4817f652.jpg",
     "static/media/tenis7.jpg": "/Zonals/static/media/tenis7.37348418681979fe83d1.jpg",
     "static/media/tenis9.jpg": "/Zonals/static/media/tenis9.07639d0096a62e9c297b.jpg",
+    "static/media/tenis11.jpg": "/Zonals/static/media/tenis11.6578985a80ea3b9eef51.jpg",
     "static/media/tenis6.jpg": "/Zonals/static/media/tenis6.823142d53cd6b008d82c.jpg",
     "static/media/tenis4.jpg": "/Zonals/static/media/tenis4.e2acf1df774f9d948117.jpg",
     "static/media/tenis5.jpg": "/Zonals/static/media/tenis5.8eb8b16ee6154c11848d.jpg",
@@ -22,10 +23,10 @@
     "static/media/logo.svg": "/Zonals/static/media/logo.6487d97afafa4ee24351287dd7174592.svg",
     "index.html": "/Zonals/index.html",
     "main.4d28d1be.css.map": "/Zonals/static/css/main.4d28d1be.css.map",
-    "main.3748ca6d.js.map": "/Zonals/static/js/main.3748ca6d.js.map"
+    "main.c256f1cf.js.map": "/Zonals/static/js/main.c256f1cf.js.map"
   },
   "entrypoints": [
     "static/css/main.4d28d1be.css",
-    "static/js/main.3748ca6d.js"
+    "static/js/main.c256f1cf.js"
   ]
 }
