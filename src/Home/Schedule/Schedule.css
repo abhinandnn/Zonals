@@ -17,6 +17,7 @@
     color: #212427; 
 }
 
+
 @media screen and (max-width:440px)  {
     .paragraph{
         font-size: 18px;

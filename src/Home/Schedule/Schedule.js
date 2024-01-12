@@ -9,7 +9,7 @@ const Schedule = () => {
                     <h1>Schedule</h1>
                 </div>
                 <div className="paragraph">
-                    <p>
+                    <p style={{padding:'1rem'}}>
                     <strong>03.02.24 Reporting /Registration</strong> ,<b>Time:8:00 AM</b> for all events. Matches schedule to be published by 01.02.24
                     </p>
                 </div>

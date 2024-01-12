@@ -41,7 +41,7 @@ const About = () => {
                 <div className="para">
                     <p className='pa'>The 25<sup>th</sup> annual Ajay Kumar Garg Memorial Table Tennis
                         Tournament is to be conducted on <b>3-4 February 2024</b> at Ajay Kumar Garg Engineering
-                        College, Ghaziabad. This prestigious event is organized in collaboration with GATT - affiliated with UPTTA,
+                        College, Ghaziabad. This prestigious event is organized in collaboration with <b>GATT - affiliated with UPTTA</b>,
                          and holds recognition at the state level. Drawing participation from esteemed professional institutions and schools
                           across the state, the tournament encompasses a variety of team competitions and individual events for both men and women
                           . A substantial prize fund has been allocated to elevate the competitive spirit, emphasizing excellence and sportsmanship 
