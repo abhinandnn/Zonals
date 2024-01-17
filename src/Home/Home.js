@@ -188,7 +188,7 @@ const Home = () => {
                                 </div>
                                 <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px", display: "flex", alignItems: "center"}}>
                                     (9818085060
-                                <Link target="_blank" to={'https://wa.me/919818085060?text=Need+to+fill%C2%A0registration+form'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>)
+                                <Link className='linkCon' target="_blank" to={'https://wa.me/919818085060?text=Need+to+fill%C2%A0registration+form'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>)
                                 </div>
                             </div>
                         </li>
@@ -199,7 +199,7 @@ const Home = () => {
                                 </div>
                                 <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px", display: "flex", alignItems: "center"}}>
                                     (9213709657
-                                <Link target="_blank" to={'https://wa.me/919213709657?text=Need+to+fill%C2%A0registration+form'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>)
+                                {<Link className='linkCon' target="_blank" to={'https://wa.me/919213709657?text=Need+to+fill%C2%A0registration+form'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>})
                                 </div>
                             </div>
                         </li>
@@ -219,7 +219,7 @@ const Home = () => {
                                 </div>
                                 <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px", display: "flex", alignItems: "center"}}>
                                     (9318316168
-                                <Link to={'https://wa.me/919318316168?text=Need+Enquiry+about+the+tournament'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>)
+                             <Link className='linkCon' to={'https://wa.me/919318316168?text=Need+Enquiry+about+the+tournament'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>)
                                 </div>
                             </div>
                         </li>
@@ -230,7 +230,7 @@ const Home = () => {
                                 </div>
                                 <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px", display: "flex", alignItems: "center"}}>
                                     (9821330802
-                                <Link target="_blank" to={'https://wa.me/919821330802?text=Need+Enquiry+about+the+tournament'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>)
+                                <Link className='linkCon' target="_blank" to={'https://wa.me/919821330802?text=Need+Enquiry+about+the+tournament'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>)
                                 </div>
                             </div>
                         </li>
@@ -241,7 +241,7 @@ const Home = () => {
                                 </div>
                                 <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px", display: "flex", alignItems: "center"}}>
                                     (8874938701
-                                <Link target="_blank" to={'https://wa.me/918874938701?text=Need+Enquiry+about+the+tournament'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>)
+                                <Link className='linkCon' target="_blank" to={'https://wa.me/918874938701?text=Need+Enquiry+about+the+tournament'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>)
                                 </div>
                             </div>
                         </li>
