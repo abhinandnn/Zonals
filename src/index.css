@@ -958,3 +958,10 @@ a:hover {
   }
 
 }
+.chatButton{
+  /* background: linear-gradient(to right, #113963, #B1261F); */
+  border: none;
+  height:1.68rem;
+  border-radius: 0.5rem;
+  margin-left: 0.25rem;
+}

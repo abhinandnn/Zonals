@@ -13,6 +13,8 @@ import Schedule from './Schedule/Schedule';
 import Last from './Last/Last';
 import Video from 'react-responsive-video'
 import file from './Images/file.mp4'
+import whatsapp from './Images/whatsapp.svg'
+import { Link } from 'react-router-dom';
 
 const Home = () => {
 
@@ -173,8 +175,9 @@ const Home = () => {
                                 <div className='student-name' style={{fontFamily: "Gilroy"}}>
                                     Prof. I.P Sharma
                                 </div>
-                                <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px" }}>
+                                <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px", display: "flex", alignItems: "center"}}>
                                     (9650370337)
+                                    
                                 </div>
                             </div>
                         </li>
@@ -183,8 +186,9 @@ const Home = () => {
                                 <div>
                                     SH. Rajeev Sharma
                                 </div>
-                                <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px" }}>
-                                    (9818085060)
+                                <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px", display: "flex", alignItems: "center"}}>
+                                    (9818085060
+                                <Link target="_blank" to={'https://wa.me/919818085060?text=Need+to+fill%C2%A0registration+form'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>)
                                 </div>
                             </div>
                         </li>
@@ -193,8 +197,9 @@ const Home = () => {
                                 <div>
                                     MR. Pratap Singh
                                 </div>
-                                <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px" }}>
-                                    (9213709657)
+                                <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px", display: "flex", alignItems: "center"}}>
+                                    (9213709657
+                                <Link target="_blank" to={'https://wa.me/919213709657?text=Need+to+fill%C2%A0registration+form'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>)
                                 </div>
                             </div>
                         </li>
@@ -212,8 +217,9 @@ const Home = () => {
                                 <div className='student-name' style={{fontFamily: "Gilroy"}}>
                                 Prateek Singh
                                 </div>
-                                <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px" }}>
-                                (9318316168)
+                                <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px", display: "flex", alignItems: "center"}}>
+                                    (9318316168
+                                <Link to={'https://wa.me/919318316168?text=Need+Enquiry+about+the+tournament'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>)
                                 </div>
                             </div>
                         </li>
@@ -222,8 +228,9 @@ const Home = () => {
                                 <div>
                                 Awas Bhardwaj
                                 </div>
-                                <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px" }}>
-                                (9821330802)
+                                <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px", display: "flex", alignItems: "center"}}>
+                                    (9821330802
+                                <Link target="_blank" to={'https://wa.me/919821330802?text=Need+Enquiry+about+the+tournament'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>)
                                 </div>
                             </div>
                         </li>
@@ -232,8 +239,9 @@ const Home = () => {
                                 <div>
                                 Jay Singh
                                 </div>
-                                <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px" }}>
-                                (8874938701)
+                                <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px", display: "flex", alignItems: "center"}}>
+                                    (8874938701
+                                <Link target="_blank" to={'https://wa.me/918874938701?text=Need+Enquiry+about+the+tournament'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>)
                                 </div>
                             </div>
                         </li>
