@@ -190,7 +190,7 @@ const Home = () => {
                                 </div>
                                 <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px", display: "flex", alignItems: "center"}}>
                                     (9818085060
-                                <Link className='linkCon' target="_blank" to={'https://wa.me/919818085060?text=+Need+to+fill+registration+form+for+25th+AJAY+KUMAR+GARG+MEMORIAL+TABLE+TENNIS+TOURNAMENT'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>)
+                                <Link className='linkCon' target="_blank" to={'https://wa.me/919818085060?text=Need+to+fill+registration+form+for+25th+AJAY+KUMAR+GARG+MEMORIAL+TABLE+TENNIS+TOURNAMENT'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>)
                                 </div>
                             </div>
                         </li>
@@ -201,7 +201,7 @@ const Home = () => {
                                 </div>
                                 <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px", display: "flex", alignItems: "center"}}>
                                     (9213709657
-                                {<Link className='linkCon' target="_blank" to={'https://wa.me/919718994374?text=+Need+to+fill+registration+form+for+25th+AJAY+KUMAR+GARG+MEMORIAL+TABLE+TENNIS+TOURNAMENT'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>})
+                                {<Link className='linkCon' target="_blank" to={'https://wa.me/919718994374?text=Need+to+fill+registration+form+for+25th+AJAY+KUMAR+GARG+MEMORIAL+TABLE+TENNIS+TOURNAMENT'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>})
                                 </div>
                             </div>
                         </li>
