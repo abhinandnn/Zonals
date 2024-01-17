@@ -34,7 +34,7 @@ const Home = () => {
                                 TABLE TENNIS TOURNAMENT
                             </h1>
                             <p>
-                                Under the Aegis of GATT, Affiliated to UPTTA
+                                Under the Aegis of GATT, Affiliated with UPTTA
                             </p>
                             <div className='dates'>
                                 <div className='icon'>
@@ -44,7 +44,9 @@ const Home = () => {
                                     <h1>
                                         3-4 February 2024
                                     </h1>
+                                    <Link style={{padding:'0'}} to={'https://maps.app.goo.gl/u4KsTR75k23UnZgz9'} target='_blank'><p>Venue: Boys Hostel 1, Ajay Kumar Garg Engineering College</p></Link>
                                 </div>
+                               
                             </div>
                             {/* <div className='btn-pos py-2'>
                                 <a href="https://www.google.com/" target={"_self"}><div className='register'>
@@ -97,7 +99,7 @@ const Home = () => {
                         <div>
                             <p style={{ margin: "0", padding: "0" }}><b>Add:</b> A.K.G. Engineering College,</p>
                             <p style={{ margin: "0", padding: "0" }}> 
-                            NH-24, Delhi-Hapur ByPass Road, Ghaziabad </p>
+                            27<sup>th</sup> km milestone, P.O. Adhyatmik Nagar, Ghaziabad </p>
                         </div>
                     </div>
 
@@ -139,9 +141,9 @@ const Home = () => {
                    
                     <div className='arrange' >
                     <div>
-                            <p style={{ margin: "0", padding: "0" }}><b>Add:</b> A.K.G. Engineering College,</p>
+                            <p style={{ margin: "0", padding: "0" }}><b>Add:</b> 64 SF, Ashiana Greens Society</p>
                             <p style={{ margin: "0", padding: "0" }}> 
-                            NH-24, Delhi-Hapur ByPass Road, Ghaziabad </p>
+                            Indirapuram, Ghaziabad </p>
                         </div>
                     </div>
 
@@ -199,7 +201,7 @@ const Home = () => {
                                 </div>
                                 <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px", display: "flex", alignItems: "center"}}>
                                     (9213709657
-                                {<Link className='linkCon' target="_blank" to={'https://wa.me/919213709657?text=Need+to+fill%C2%A0registration+form'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>})
+                                {<Link className='linkCon' target="_blank" to={'https://wa.me/919718994374?text=Need+to+fill%C2%A0registration+form'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>})
                                 </div>
                             </div>
                         </li>
@@ -218,8 +220,8 @@ const Home = () => {
                                 Prateek Singh
                                 </div>
                                 <div style={{ paddingLeft: "5px", fontFamily: "Gilroy", fontWeight: "400", fontSize: "17px", lineHeight: "24px", paddingTop: "4px", display: "flex", alignItems: "center"}}>
-                                    (9318316168
-                             <Link className='linkCon' to={'https://wa.me/919318316168?text=Need+Enquiry+about+the+tournament'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>)
+                                    (9452841072
+                             <Link className='linkCon' to={'https://wa.me/919452841072?text=Need+Enquiry+about+the+tournament'}><img className='chatButton' src={'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'}/></Link>)
                                 </div>
                             </div>
                         </li>
