@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Zonals/static/css/main.4d28d1be.css",
-    "main.js": "/Zonals/static/js/main.55185777.js",
-    "static/media/file.mp4": "/Zonals/static/media/file.8a651a2c117fb65a7fab.mp4",
+    "main.css": "/Zonals/static/css/main.81c4bdb8.css",
+    "main.js": "/Zonals/static/js/main.758bc118.js",
+    "static/media/file.mp4": "/Zonals/static/media/file.83560622448b92fee682.mp4",
     "static/media/mobilebg.svg": "/Zonals/static/media/mobilebg.aa70ff1c412d590b31c0.svg",
     "static/media/tenis.svg": "/Zonals/static/media/tenis.f2777859e43762c53d5f.svg",
     "static/media/tenis3.jpg": "/Zonals/static/media/tenis3.acc9b7cad31c69544e52.jpg",
@@ -21,12 +21,13 @@
     "static/media/gilory.ttf": "/Zonals/static/media/gilory.fa652e766b6a85a1f9cb.ttf",
     "static/media/star1.svg": "/Zonals/static/media/star1.c4cf48339aac6adad006b81f070e954c.svg",
     "static/media/logo.svg": "/Zonals/static/media/logo.6487d97afafa4ee24351287dd7174592.svg",
+    "static/media/whatsapp.svg": "/Zonals/static/media/whatsapp.2ff00631d8aa86bf660b6fe9fbaea246.svg",
     "index.html": "/Zonals/index.html",
-    "main.4d28d1be.css.map": "/Zonals/static/css/main.4d28d1be.css.map",
-    "main.55185777.js.map": "/Zonals/static/js/main.55185777.js.map"
+    "main.81c4bdb8.css.map": "/Zonals/static/css/main.81c4bdb8.css.map",
+    "main.758bc118.js.map": "/Zonals/static/js/main.758bc118.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d28d1be.css",
-    "static/js/main.55185777.js"
+    "static/css/main.81c4bdb8.css",
+    "static/js/main.758bc118.js"
   ]
 }
