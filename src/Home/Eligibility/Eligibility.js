@@ -34,10 +34,10 @@ const Eligibility = () => {
                     Entries are open for all States.
                     </li>
                     <li>
-                    No Age criteria.
+                    No Age criteria (Except Under-19 & Veteran category)
                     </li>
                     <li>
-                    Men and Mixed Double can be made in open basis (Not restricted to same institution).
+                    Men and Mixed Double can be made in open basis (Not restricted to same institution)
                     </li>
                 </ul>
             </div>
