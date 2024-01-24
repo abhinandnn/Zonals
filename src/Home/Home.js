@@ -15,9 +15,25 @@ import Video from 'react-responsive-video'
 import file from './Images/file.mp4'
 import whatsapp from './Images/whatsapp.svg'
 import { Link } from 'react-router-dom';
+import { colors } from '@mui/material';
 
 const Home = () => {
-
+    const fileURL='../../public/registration.pdf'
+    const onButtonClick = () => {
+     
+        fetch("registration.pdf").then((response) => {
+            response.blob().then((blob) => {
+             
+                const fileURL =
+                    window.URL.createObjectURL(blob);
+                     
+                let alink = document.createElement("a");
+                alink.href = fileURL;
+                alink.download = "registration-form.pdf";
+                alink.click();
+            });
+        });
+    };
     
     return (<>
         <div className='Home'>
@@ -75,6 +91,15 @@ const Home = () => {
         <Eligibility />
         <Prizes />
         <Schedule />
+        <div className='regis-main'>
+        <div className='heading1'>
+                <h1>Registration form</h1>
+            </div>
+            
+            <p onClick={onButtonClick} style={{textDecoration:'underline',cursor:'pointer'}}>Click here to download registration form</p>
+            
+            </div>
+            
         <Fee />
         <Last />
         <Notes />
@@ -163,6 +188,7 @@ const Home = () => {
                     </div>
 
                 </div>
+                
             </div>
         </div>
         <div className='organiser' id="organizers">

@@ -349,6 +349,24 @@ a:hover {
   display: flex;
   align-items: center;
 }
+.regis-main{
+  display: flex;
+  flex-direction: column;
+  width: 92vw;
+  padding-left: 3.3%;
+}
+.regis-main>p {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 52px;
+  letter-spacing: 1px;
+  text-decoration: none;
+  padding: 0.5rem;
+  color: rgb(30,58,138);
+  cursor: pointer;
+}
 
 .student-list {
   font-family: 'Gilroy';
@@ -738,6 +756,11 @@ a:hover {
 
 @media screen and (max-width:440px) {
 
+  .regis-main>p {
+   
+    font-size: 18px;
+    
+  }
   .criteria{
     font-size: 17px;
     line-height: 38px;
