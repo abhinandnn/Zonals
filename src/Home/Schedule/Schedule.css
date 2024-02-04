@@ -23,3 +23,8 @@
         font-size: 18px;
     }
   }
+  .main-schedule{
+    display: flex;
+    flex-direction: column;
+    width: 92vw;
+}

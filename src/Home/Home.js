@@ -91,15 +91,6 @@ const Home = () => {
         <Eligibility />
         <Prizes />
         <Schedule />
-        <div className='regis-main'>
-        <div className='heading1'>
-                <h1>Registration form</h1>
-            </div>
-            
-            <p onClick={onButtonClick} style={{textDecoration:'underline',cursor:'pointer'}}>Click here to download registration form</p>
-            
-            </div>
-            
         <Fee />
         <Last />
         <Notes />
