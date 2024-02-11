@@ -568,7 +568,9 @@ a:hover {
     margin-left: 0px;
   }
 
-  .about-us-heading {
+  .about-us-heading,
+.event-recap-heading
+{
     margin-left: 0px;
   }
 
@@ -815,7 +817,7 @@ a:hover {
     font-size: 20px;
     line-height: 35px;
   }
-
+  .event-recap-heading>h1,
   .about-us-heading>h1,
   .category-heading>h1,
   .heading>h1,
@@ -823,7 +825,7 @@ a:hover {
     font-size: 36px;
     margin-left: 2px;
   }
-
+  .event-recap-heading>h1,
   .about-us-heading>h1,
   .eligibility-heading>h1 {
     font-size: 27px;
@@ -847,6 +849,7 @@ a:hover {
     align-items: normal;
   }
 
+.event-recap-heading>h1::after,
   .about-us-heading>h1::after,
   .category-heading>h1::after,
   .heading>h1::after,
