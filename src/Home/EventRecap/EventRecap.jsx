@@ -9,7 +9,7 @@ import Table from 'react-bootstrap/Table';
 const EventRecap = () => {
 
     return (
-        <div className='Main-about-data' style={{paddingBottom:'2rem'}}>
+        <div className='Main-about-data' style={{paddingBottom:'1rem'}}>
             <div className='event-recap-story'>
                 <div  className='event-recap-heading'>
                     <h1>Event Recap</h1>
