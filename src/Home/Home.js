@@ -16,6 +16,7 @@ import file from './Images/file.mp4'
 import whatsapp from './Images/whatsapp.svg'
 import { Link } from 'react-router-dom';
 import { colors } from '@mui/material';
+import EventRecap from './EventRecap/EventRecap'
 
 const Home = () => {
     const fileURL='../../public/registration.pdf'
@@ -88,6 +89,7 @@ const Home = () => {
         </div>
 
         <About />
+        <EventRecap/>
         <Eligibility />
         <Prizes />
         <Schedule />

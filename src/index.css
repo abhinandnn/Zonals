@@ -282,7 +282,7 @@ a:hover {
   align-items: flex-start;
 }
 
-
+.event-recap-heading>h1,
 .about-us-heading>h1,
 .category-heading>h1,
 .heading>h1,
@@ -295,6 +295,7 @@ a:hover {
   line-height: 60px;
   padding-bottom: 2%;
 }
+.event-recap-heading>h1,
 .about-us-heading,
 .category-heading,
 .heading,
@@ -304,7 +305,7 @@ a:hover {
   
   padding: 1% 0%;
 }
-
+.event-recap-heading>h1::after,
 .about-us-heading>h1::after,
 .category-heading>h1::after,
 .heading>h1::after,

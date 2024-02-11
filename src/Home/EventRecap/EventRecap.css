@@ -1,0 +1,118 @@
+.Main-about-data , .event-recap-story {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 100vw;
+    height: fit-content;
+  }
+   .event-recap-story {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: fit-content;
+  }
+  
+  .par1{
+    display: flex;
+    width: 93vw;
+    flex-direction: column;
+    padding-top: 1rem ;
+  }
+  
+  .par1>p {
+    font-weight: 400;
+    font-family: 'Gilroy';
+    font-size: 20px;
+    line-height: 29px;
+    padding-right: 2%;
+  margin:0
+  }
+  .pa{
+    order: 2;
+  }
+
+  .par1>p {
+  padding-top: 1rem;
+  }
+
+  .event-recap-image {
+    order: 1;
+    width: fit-content;
+    height: fit-content;
+  }
+
+  .event-recap-story {
+    width: 93vw;
+  }
+
+  .rsis-container{
+    width: 400px !important;
+    height: 300px !important;
+  }
+
+  .rsis-image{
+    width: 400px !important;
+    height: 300px !important;
+  }
+  
+  
+  .event-recap-image {
+    
+    padding-bottom: 15px;
+  }
+
+  .event-recap-image > div {
+    
+    width: 400px !important;
+    height: 300px !important;
+  }
+  .event-recap-image > div > div{
+    
+    width: 400px !important;
+    height: 300px !important;
+    
+    
+  }
+
+  .event-recap-image > div > div >div:nth-child(2){
+    margin-left: -90.5px !important;
+  }
+  
+  .event-recap-image > div > div >div:nth-child(2) > button {
+    
+    width: 8px !important;
+    height: 8px !important;
+ 
+  }
+
+  @media screen and (max-width:560px)  {
+    .par1>p {
+        font-size: 15px;
+        line-height: 23px;
+        padding-left: 2%;
+        padding-top: 0%;
+      }
+  }
+  @media screen and (max-width:420px)  {
+    .event-recap-image > div {
+    
+      width: 310px !important;
+      height: 220px !important;
+    }
+    .event-recap-image > div > div{
+      
+      width: 310px !important;
+      height: 220px !important;
+    }
+  
+    .rsis-container{
+      width: 310px !important;
+      height: 220px !important;
+    }
+  
+    .rsis-image{
+      width: 310px !important;
+      height: 220px !important;
+    }
+  
+  }
