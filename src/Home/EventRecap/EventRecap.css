@@ -27,63 +27,17 @@
     padding-right: 2%;
   margin:0
   }
-  .pa{
+  .par{
     order: 2;
   }
 
   .par1>p {
   padding-top: 1rem;
   }
-
-  .event-recap-image {
-    order: 1;
-    width: fit-content;
-    height: fit-content;
-  }
-
   .event-recap-story {
     width: 93vw;
   }
 
-  .rsis-container{
-    width: 400px !important;
-    height: 300px !important;
-  }
-
-  .rsis-image{
-    width: 400px !important;
-    height: 300px !important;
-  }
-  
-  
-  .event-recap-image {
-    
-    padding-bottom: 15px;
-  }
-
-  .event-recap-image > div {
-    
-    width: 400px !important;
-    height: 300px !important;
-  }
-  .event-recap-image > div > div{
-    
-    width: 400px !important;
-    height: 300px !important;
-    
-    
-  }
-
-  .event-recap-image > div > div >div:nth-child(2){
-    margin-left: -90.5px !important;
-  }
-  
-  .event-recap-image > div > div >div:nth-child(2) > button {
-    
-    width: 8px !important;
-    height: 8px !important;
- 
-  }
 
   @media screen and (max-width:560px)  {
     .par1>p {
