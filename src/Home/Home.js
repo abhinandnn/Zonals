@@ -92,7 +92,6 @@ const Home = () => {
         <EventRecap/>
         <Eligibility />
         <Prizes />
-        <Schedule />
         <Fee />
         <Last />
         <Notes />
